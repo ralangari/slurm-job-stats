@@ -1,0 +1,14 @@
+# vi / vim temporary files
+*~
+*.swp
+*.swo
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+/tmp/*
+
